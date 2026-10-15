@@ -11,7 +11,7 @@ This model calculates production impacts (A1–A3), demolition burdens (C1), tra
 *   **Data Integrity & Reproducibility:** Anchored using a fixed random generation seed (`SEED = 42`) to guarantee identical, auditable results across execution environments.
 
 ## Core Generated Data Artifacts
-*   `lca_pipeline.py`: Vectorized Python script managing numerical distributions and chart generations.
+*   `monte_carlo_lca.py`: Vectorized Python script managing numerical distributions and chart generations.
 *   `outputs/summary_statistics.csv`: Final processed metrics tracking Mean, Median, SD, and 5th/95th percentiles.
 *   `outputs/scenario_sensitivity.csv`: Pearson r correlation metrics demonstrating how steel loops heavily dominate structural variance.
 *   `outputs/scenario_distributions.png`: Probability density distributions mapping overlapping scenario risk boundaries.
