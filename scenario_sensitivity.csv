@@ -1,0 +1,7 @@
+Scenario,Input,Pearson_r_with_combined_net
+Low,Concrete recycling rate,-0.067345345007343
+Low,Steel recycling rate,-0.9975058977690221
+Median,Concrete recycling rate,-0.07722149049300102
+Median,Steel recycling rate,-0.9975154633491822
+High,Concrete recycling rate,-0.34787162059750076
+High,Steel recycling rate,-0.9435852149884313
